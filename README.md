@@ -4,9 +4,9 @@ A clean and simple Flutter application demonstrating navigation drawer implement
 
 ## 📱 Screenshots
 
-![Home Screen]<img width="580" height="875" alt="image" src="https://github.com/user-attachments/assets/48f33da1-2add-4877-9f33-0818eefed73f" />
-![Drawer]<img width="707" height="832" alt="image" src="https://github.com/user-attachments/assets/67926dcf-74a3-4bf6-99e1-7cecc9b3492a" />
-![Screen Two]<img width="718" height="989" alt="image" src="https://github.com/user-attachments/assets/b6d5fe62-67bd-447b-9826-55683fbadd52" />
+![Home Screen]"https://github.com/user-attachments/assets/48f33da1-2add-4877-9f33-0818eefed73f"
+![Drawer]"https://github.com/user-attachments/assets/67926dcf-74a3-4bf6-99e1-7cecc9b3492a"
+![Screen Two]"https://github.com/user-attachments/assets/b6d5fe62-67bd-447b-9826-55683fbadd52"
 
 ## 🚀 Features
 
